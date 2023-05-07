@@ -4,4 +4,6 @@ It can be used in vehicles to avoid any road accidents.
 
 We will use PyTorch and YOLO to detect this drowsiness of a driver.
 
+
+Program snapshot:
 ![screenshot](https://user-images.githubusercontent.com/88229477/236658516-069be748-ab26-4d9f-b94e-03b6cbd37be6.png)
