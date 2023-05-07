@@ -7,3 +7,5 @@ We will use PyTorch and YOLO to detect this drowsiness of a driver.
 
 
 ![screenshot](https://user-images.githubusercontent.com/88229477/236658516-069be748-ab26-4d9f-b94e-03b6cbd37be6.png)
+![drowsy](https://user-images.githubusercontent.com/88229477/236658738-2d954b71-4348-4589-ada8-6cdad2046083.png)
+
